@@ -1,5 +1,5 @@
 npm init
-npm install gulp --save-dev
+npm install gulp --save-dev\n
 npm install browserify --save-dev
 npm install gulp -g
 npm install vinyl-source-stream --save-dev
